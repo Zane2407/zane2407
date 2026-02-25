@@ -7,12 +7,12 @@ I am a backend-focused developer with experience building web applications using
 I enjoy working with databases, server environments, and virtualization tools.
 
 My goal is to become a strong backend engineer with solid DevOps knowledge.
----
+
 
 🌳 Projects Overview 
----
+___
 🍕 1. PizzaHouse (Laravel Project)
-
+---
 Description:
 A complete pizza ordering system built with Laravel.
 
@@ -30,9 +30,9 @@ MySQL database integration
 
 Tech Stack:
 Laravel 12, PHP, MySQL, Bootstrap
----
-🎮 2. Console & GPU Store Website
 
+🎮 2. Console & GPU Store Website
+---
 Description:
 An e-commerce website for selling gaming consoles and graphic cards.
 
@@ -50,9 +50,9 @@ Backend business logic
 
 Tech Stack:
 Laravel, MySQL, Bootstrap
----
-🚗 3. Django Car Listing Website
 
+🚗 3. Django Car Listing Website
+---
 Description:
 A car listing platform built with Django.
 
@@ -70,9 +70,9 @@ Database management
 
 Tech Stack:
 Django, Python, Bootstrap, SQLite/MySQL
----
-🗄 Database Experience
 
+🗄 Database Experience
+---
 MySQL (CRUD operations, relationships, migrations)
 
 Oracle 23ai (basic database operations & configuration)
@@ -88,9 +88,9 @@ Practiced VLAN configuration
 DHCP & trunk/access configuration
 
 Linux CLI troubleshooting
----
-🛠 Tools & Environment
 
+🛠 Tools & Environment
+---
 Git & GitHub
 
 macOS Development
