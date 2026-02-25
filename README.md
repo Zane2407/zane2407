@@ -1,67 +1,118 @@
-👋 So Cheat – Project Portfolio
+👋 Hi, I'm So Cheat
 
-Backend Developer | Laravel & Django | DevOps Learner
+💻 Backend Developer | Laravel & Django
+🖥️ DevOps & Virtualization Enthusiast
+🎯 Focused on building scalable web applications
 
-🌳 My Development Journey
-├── Laravel-Projects/
-│   │
-│   ├── PizzaHouse/
-│   │   ├── Authentication System
-│   │   ├── Admin Dashboard
-│   │   ├── Product CRUD
-│   │   ├── Order Management
-│   │   └── MySQL Database Integration
-│   │
-│   └── Console-GPU-Store/
-│       ├── Product Management (PlayStation, Xbox, GPU)
-│       ├── Shopping Cart System
-│       ├── User Authentication
-│       ├── Laravel UI Integration
-│       └── E-commerce Logic
-│
-├── Django-Projects/
-│   │
-│   └── Car-Listing-Website/
-│       ├── Car CRUD System
-│       ├── Admin Panel
-│       ├── Bootstrap Carousel Header
-│       ├── Django ORM
-│       └── Database Integration
-│
-├── Database-Experience/
-│   ├── MySQL
-│   └── Oracle 23ai
-│
-├── DevOps-Practice/
-│   ├── VirtualBox Setup
-│   ├── Parallels Desktop (Mac 16" 2019)
-│   ├── CentOS Installation
-│   ├── Ubuntu Environment Setup
-│   ├── Basic VLAN Configuration
-│   └── DHCP & Trunk Configuration
-│
-└── Tools-Environment/
-    ├── Git & GitHub
-    ├── macOS Development
-    ├── Linux CLI
-    └── Server Troubleshooting
-🛠 Technologies Used
+🚀 About Me
 
-Backend: Laravel 12, Django
+I am a backend developer passionate about building web applications and learning modern technologies.
+I have experience working with Laravel, Django, database systems, and virtualization tools.
 
-Frontend: Bootstrap, HTML, CSS
+I enjoy solving real-world problems and continuously improving my development and deployment skills.
 
-Database: MySQL, Oracle 23ai, Postgres 
+🛠️ Technical Skills
+🔹 Backend Development
 
-Environment: macOS, Linux (CentOS, Ubuntu)
+PHP (Laravel 12)
 
-Virtualization: VirtualBox, Parallels
+Python (Django)
 
-📈 Currently Improving
-Learning/
-│
-├── Advanced Django
-├── REST API Development
-├── JWT Authentication
-├── DevOps Deployment
-└── Cloud Hosting
+RESTful API Development
+
+MVC Architecture
+
+🔹 Frontend
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+Laravel UI
+
+🔹 Database
+
+MySQL
+
+Oracle 23ai
+
+🔹 DevOps & Tools
+
+Git & GitHub
+
+VirtualBox
+
+Parallels Desktop
+
+Linux (CentOS, Ubuntu)
+
+macOS (MacBook Pro 16” 2019, 32GB RAM)
+
+📂 My Projects
+🍕 PizzaHouse (Laravel Project)
+
+Built a complete pizza ordering system
+
+User authentication system
+
+Admin dashboard for managing products
+
+CRUD operations
+
+Database integration (MySQL)
+
+🎮 Console & GPU Store Website
+
+E-commerce website for selling:
+
+PlayStation consoles
+
+Xbox consoles
+
+Graphic cards
+
+Product management system
+
+Shopping cart functionality
+
+Backend built with Laravel
+
+🚗 Django Car Project
+
+Car listing website
+
+Bootstrap carousel header
+
+CRUD system for cars
+
+Admin management system
+
+Django ORM integration
+
+🧪 Virtualization & Server Experience
+
+Installed and configured CentOS on VirtualBox
+
+Used Parallels Desktop for Linux environments
+
+Practiced server configuration & troubleshooting
+
+Basic networking (VLAN, DHCP, trunk/access configuration)
+
+📈 What I’m Currently Learning
+
+Advanced Django
+
+API authentication (JWT)
+
+DevOps practices
+
+Server deployment & cloud hosting
+
+📬 Contact
+
+GitHub: https://github.com/yourusername
+
+Email: your@email.com
