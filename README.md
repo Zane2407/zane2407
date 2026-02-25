@@ -1,118 +1,112 @@
-👋 Hi, I'm So Cheat
+Hi! My name is Reth Socheat👋
 
-💻 Backend Developer | Laravel & Django
-🖥️ DevOps & Virtualization Enthusiast
-🎯 Focused on building scalable web applications
+Backend Developer | Laravel & Django | DevOps Learner
 
-🚀 About Me
+📌 About Me
+I am a backend-focused developer with experience building web applications using Laravel and Django.
+I enjoy working with databases, server environments, and virtualization tools.
 
-I am a backend developer passionate about building web applications and learning modern technologies.
-I have experience working with Laravel, Django, database systems, and virtualization tools.
+My goal is to become a strong backend engineer with solid DevOps knowledge.
+---
 
-I enjoy solving real-world problems and continuously improving my development and deployment skills.
+🌳 Projects Overview 
+---
+🍕 1. PizzaHouse (Laravel Project)
 
-🛠️ Technical Skills
-🔹 Backend Development
+Description:
+A complete pizza ordering system built with Laravel.
 
-PHP (Laravel 12)
-
-Python (Django)
-
-RESTful API Development
-
-MVC Architecture
-
-🔹 Frontend
-
-HTML5
-
-CSS3
-
-Bootstrap
-
-Laravel UI
-
-🔹 Database
-
-MySQL
-
-Oracle 23ai
-
-🔹 DevOps & Tools
-
-Git & GitHub
-
-VirtualBox
-
-Parallels Desktop
-
-Linux (CentOS, Ubuntu)
-
-macOS (MacBook Pro 16” 2019, 32GB RAM)
-
-📂 My Projects
-🍕 PizzaHouse (Laravel Project)
-
-Built a complete pizza ordering system
+Features:
 
 User authentication system
 
-Admin dashboard for managing products
+Admin dashboard
 
-CRUD operations
+Product CRUD operations
 
-Database integration (MySQL)
+Order management system
 
-🎮 Console & GPU Store Website
+MySQL database integration
 
-E-commerce website for selling:
+Tech Stack:
+Laravel 12, PHP, MySQL, Bootstrap
+---
+🎮 2. Console & GPU Store Website
 
-PlayStation consoles
+Description:
+An e-commerce website for selling gaming consoles and graphic cards.
 
-Xbox consoles
+Features:
 
-Graphic cards
+Product management (PlayStation, Xbox, GPU)
 
-Product management system
+Shopping cart system
 
-Shopping cart functionality
+User authentication
 
-Backend built with Laravel
+Laravel UI integration
 
-🚗 Django Car Project
+Backend business logic
 
-Car listing website
+Tech Stack:
+Laravel, MySQL, Bootstrap
+---
+🚗 3. Django Car Listing Website
+
+Description:
+A car listing platform built with Django.
+
+Features:
+
+Car CRUD system
+
+Admin management panel
 
 Bootstrap carousel header
 
-CRUD system for cars
-
-Admin management system
-
 Django ORM integration
 
-🧪 Virtualization & Server Experience
+Database management
 
-Installed and configured CentOS on VirtualBox
+Tech Stack:
+Django, Python, Bootstrap, SQLite/MySQL
+---
+🗄 Database Experience
 
-Used Parallels Desktop for Linux environments
+MySQL (CRUD operations, relationships, migrations)
 
-Practiced server configuration & troubleshooting
+Oracle 23ai (basic database operations & configuration)
+---
+🧪 DevOps & Virtualization Experience
 
-Basic networking (VLAN, DHCP, trunk/access configuration)
+Installed and configured CentOS using VirtualBox
 
-📈 What I’m Currently Learning
+Used Parallels Desktop on MacBook Pro 16" (2019, 32GB RAM)
 
+Practiced VLAN configuration
+
+DHCP & trunk/access configuration
+
+Linux CLI troubleshooting
+---
+🛠 Tools & Environment
+
+Git & GitHub
+
+macOS Development
+
+Linux (CentOS, Ubuntu)
+
+VirtualBox & Parallels
+
+Server troubleshooting
+
+📈 Currently Learning
+---
 Advanced Django
 
-API authentication (JWT)
+REST API Development
 
-DevOps practices
+JWT Authentication
 
-Server deployment & cloud hosting
-
-📬 Contact
-
-GitHub: https://github.com/yourusername
-
-Email: your@email.com
+Deployment & Cloud Hosting
