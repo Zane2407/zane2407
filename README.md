@@ -10,5 +10,6 @@ I also have frontend skills like mobile, website and application.
 I enjoy working with databases, server environments, and virtualization tools.
 
 My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+---
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,php,laravel,python,django,flutter,kotlin,java,mysql,postgres,oracle,git,github,docker,linux,figma)](https://skillicons.dev)
 
