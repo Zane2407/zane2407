@@ -9,5 +9,6 @@ I am a backend-focused developer with experience building web applications using
 I also have frontend skills like mobile, website and application.
 I enjoy working with databases, server environments, and virtualization tools.
 
-My goal is to become a strong backend engineer with solid DevOps knowledge.
+My skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
