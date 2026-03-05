@@ -1,6 +1,8 @@
 Hi! My name is Reth Socheat👋
 
-Flutter & Kotlin| Laravel | DevOps Learner
+I'm a junior Full Stack Developer
+USING
+Flutter & Kotlin (Mobile)| Python and C# (Software) | React.js (Front-end) | Laravel12 (Back-end) | DevOps Learner
 
 📌 About Me
 I am a backend-focused developer with experience building web applications using Laravel.
