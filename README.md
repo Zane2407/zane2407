@@ -11,5 +11,10 @@ I enjoy working with databases, server environments, and virtualization tools.
 
 My skills
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,vite,bootstrap,tailwind,php,laravel,python,django,flutter,kotlin,java,mysql,postgres,git,github,docker,postman,linux,figma,cs,dotnet)](https://skillicons.dev)
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,vite,bootstrap,tailwind,php,laravel,python,django,flutter,kotlin,java,mysql,postgres,git,github,docker,postman,linux,figma,cs,dotnet" />
+  </a>
+</p>
